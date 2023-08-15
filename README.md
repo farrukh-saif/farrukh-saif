@@ -1,27 +1,31 @@
 # Syed Farrukh Saif
 
-Hi there! My name is Syed Farrukh Saif and I'm a third-year Computer Engineering student at Middle East Technical University.
+Hi there! My name is Syed Farrukh Saif and I'm a 4th-year Computer Engineering student at Middle East Technical University.
 
 ## Interests
 
 My main interests lie in:
-- Android app development
 - Machine learning
+- Android app development
+- AR development
 - Web development
 - Game development
 
-## Experience
+## Tech Stack
 
-I have experience in:
-- Building Android applications using Kotlin
-- Working with machine learning libraries such as TensorFlow and Keras
-- Game development using the Unity Game Engine
-- Developing web applications using ReactJS, HTML, and CSS
-
+Some technologies I've worked with:
+- Unity Game Engine
+- AR SDKs (Unity's AR Foundation, ARCore, ARKit, Vuforia, EasyAR)
+- Flutter
+- Tensorflow
+- Python
+- Firebase
 
 ## Projects
 
 Some of the projects I have worked on:
+- General Data Annotation Website (Flutter) 
+- AR education app (AR Foundation with Unity)
 - Object Detection Solution for Trash Segregation (Machine Learning)
 - Orbit Ball (Android Game)
 
