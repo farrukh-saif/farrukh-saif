@@ -1,7 +1,5 @@
-# Syed Farrukh Saif
-
-Hi there! My name is Syed Farrukh Saif and I'm a 4th-year Computer Engineering student at Middle East Technical University.
-
+# Hello, World! 👋 I'm Farrukh
+## A 4th-year Computer Engineering Student | Fueling Innovation in AI & AR
 ## Interests
 
 My main interests lie in:
@@ -12,11 +10,13 @@ My main interests lie in:
 - Game development
 
 ## Tech Stack
+![My Skills](https://skillicons.dev/icons?i=unity,flutter,kotlin,tensorflow,py,firebase)
 
 Some technologies I've worked with:
 - Unity Game Engine
 - AR SDKs (Unity's AR Foundation, ARCore, ARKit, Vuforia, EasyAR)
 - Flutter
+- Kotlin
 - Tensorflow
 - Python
 - Firebase
