@@ -1,5 +1,5 @@
 # Hello, World! 👋 I'm Farrukh
-## A 4th-year Computer Engineering Student | Fueling Innovation in AI & AR
+## Computer Engineer | Fueling Innovation in AI & AR
 ## Interests
 
 My main interests lie in:
