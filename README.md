@@ -38,10 +38,6 @@ These days, AI has my full attention.
 
 🎮 **Orbit Ball** — Minimalist mobile game on the Play Store
 
-🎵 **Arduino Musical Instrument** — DIY instrument hacked together for fun
-
-🧮 **Binary Adder in Minecraft** — Yep, it works in-game
-
 ---
 
 📂 Check out my [portfolio](https://syedfarrukhsaif.com/) for more!
