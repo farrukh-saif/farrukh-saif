@@ -1,32 +1,49 @@
 # Hello, World! 👋 I'm Farrukh
-## Computer Engineer | Fueling Innovation in AI & AR
-## Interests
 
-My main interests lie in:
-- Machine learning
-- Android app development
-- AR development
-- Web development
-- Game development
+I'm the kind of nerd who reads research papers for fun and loves building cool stuff.
 
-## Tech Stack
-![My Skills](https://skillicons.dev/icons?i=unity,flutter,kotlin,tensorflow,py,firebase)
+💡 My experience spans:
 
-Some technologies I've worked with:
-- Unity Game Engine
-- AR SDKs (Unity's AR Foundation, ARCore, ARKit, Vuforia, EasyAR)
-- Flutter
-- Kotlin
-- Tensorflow
-- Python
-- Firebase
+- Machine Learning
+- Software Development
+- AR Development
 
-## Projects
+These days, AI has my full attention.
 
-Some of the projects I have worked on:
-- General Data Annotation Website (Flutter) 
-- AR education app (AR Foundation with Unity)
-- Object Detection Solution for Trash Segregation (Machine Learning)
-- Orbit Ball (Android Game)
+---
 
-Feel free to check out my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/farrukh-saif/).
+## **Tools of the Trade**
+
+![](https://skillicons.dev/icons?i=py,pytorch,sklearn,selenium,anaconda,unity)
+
+![](https://skillicons.dev/icons?i=tensorflow,opencv,flutter,firebase,react,androidstudio)
+
+![](https://skillicons.dev/icons?i=cs,docker,gcp,arduino,git,mysql)
+
+*Tools are just that—tools. It’s the problem that matters. I’ll learn whatever it takes to solve it.*
+
+---
+
+## **Cool Stuff I've Built**
+
+🔍 **Object Detection Project** — Fine-tuned a model for sorting waste into recycling categories
+
+🛠️ **Data Annotation Site & Admin Panel** — Built for a data collection campaign I ran
+
+🤖 **Robotic Arm AI Agent** — Trained an AI to operate a robotic arm in a custom virtual environment
+
+📱 **AR Education Apps** — Published for iOS and Android
+
+🔥 **FireQuizzes** — A quiz web app for curious minds
+
+🎮 **Orbit Ball** — Minimalist mobile game on the Play Store
+
+🎵 **Arduino Musical Instrument** — DIY instrument hacked together for fun
+
+🧮 **Binary Adder in Minecraft** — Yep, it works in-game
+
+---
+
+📂 Check out my [portfolio](https://syedfarrukhsaif.com/) for more!
+
+💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/farrukh-saif/)
