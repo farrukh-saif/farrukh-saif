@@ -38,6 +38,7 @@ These days, AI has my full attention.
 
 🎮 **Orbit Ball** — Minimalist mobile game on the Play Store
 
+📷 **Image Filter App** - Built in Flutter with C++ for efficient image processing, includes API calls for heavy tasks
 ---
 
 📂 Check out my [portfolio](https://syedfarrukhsaif.com/) for more!
